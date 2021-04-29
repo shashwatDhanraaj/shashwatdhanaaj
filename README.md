@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shashwatdhanaaj
+- 👋 Hi, I’m @shashwatdhanraaj
 - 👀 I’m interested in Ai/Ml/Game Dev
 - 🌱 I’m currently learning Computer vision
 - 💞️ I’m looking to collaborate on Machine Learning , computer vision, game development.
